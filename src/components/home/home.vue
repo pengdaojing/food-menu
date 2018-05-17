@@ -26,7 +26,10 @@
             </div>
           </div>
           <div class="week-menu">
-            <h1 class="title">本周菜单</h1>
+            <h1 class="title">
+              <span class="text">本周菜单</span>
+              <div class="backdrop"></div>
+            </h1>
             <div class="menu-list">
               <!--<div class="backdrop"></div>-->
               <ul>
