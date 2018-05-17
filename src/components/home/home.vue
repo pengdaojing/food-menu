@@ -28,7 +28,7 @@
           <div class="week-menu">
             <h1 class="title">本周菜单</h1>
             <div class="menu-list">
-              <div class="backdrop"></div>
+              <!--<div class="backdrop"></div>-->
               <ul>
                 <li class="menu-item">
                   <h4 class="menu-header">星期一</h4>
