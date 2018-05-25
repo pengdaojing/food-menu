@@ -1,0 +1,5081 @@
+{
+  "code": 0,
+  "list": [
+    {
+      "type": "week",
+      "name": "星期一",
+      "id": 1,
+      "items": [
+        {
+          "type": "store",
+          "name": "达美乐比萨",
+          "id": 1,
+          "items": [
+            {
+              "type": "food",
+              "name": "美国风情土豆培根比萨",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "美乐嫩汁鸡块",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "葱香烤薯饼",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "夏威夷风情比萨",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "意大利风情肉酱面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "单份烤翅-奥尔良风味",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "奶油蘑菇汤",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烤翅拼盘",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "热狗面包卷",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "卷心菜小鲜肉炒饭",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭+红烧肉",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "卜豆角小鲜肉炒饭",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "鲜笋小鲜肉炒饭",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "时令小蔬",
+              "id": 15
+            },
+            {
+              "type": "food",
+              "name": "野藜蒿小鲜肉炒饭",
+              "id": 16
+            },
+            {
+              "type": "food",
+              "name": "腊八豆鸡蛋炒饭+凉拌香菜耳尖",
+              "id": 17
+            },
+            {
+              "type": "food",
+              "name": "八戒吹泡泡",
+              "id": 18
+            },
+            {
+              "type": "food",
+              "name": "八戒耳尖",
+              "id": 19
+            },
+            {
+              "type": "food",
+              "name": "滋水土豆牛腩",
+              "id": 20
+            },
+            {
+              "type": "food",
+              "name": "脆萝卜炒腊肉",
+              "id": 21
+            },
+            {
+              "type": "food",
+              "name": "红烧肉+时蔬+例汤+白米饭套餐",
+              "id": 22
+            },
+            {
+              "type": "food",
+              "name": "酸辣剁椒土豆丝",
+              "id": 23
+            },
+            {
+              "type": "food",
+              "name": "妈妈蛋蒸肉",
+              "id": 24
+            },
+            {
+              "type": "food",
+              "name": "70椒麻鸡",
+              "id": 25
+            },
+            {
+              "type": "food",
+              "name": "千叶豆腐煲",
+              "id": 26
+            },
+            {
+              "type": "food",
+              "name": "一品金汤肥牛（小份）",
+              "id": 27
+            },
+            {
+              "type": "food",
+              "name": "干煸四季豆（小份）",
+              "id": 28
+            },
+            {
+              "type": "food",
+              "name": "油渣青菜",
+              "id": 29
+            },
+            {
+              "type": "food",
+              "name": "清炒广东菜心",
+              "id": 30
+            },
+            {
+              "type": "food",
+              "name": "单人精品啤酒鸭套餐",
+              "id": 31
+            },
+            {
+              "type": "food",
+              "name": "米粉蒸肉（小份）",
+              "id": 32
+            },
+            {
+              "type": "food",
+              "name": "啤酒鸭（小份）",
+              "id": 33
+            },
+            {
+              "type": "food",
+              "name": "美味丁丁（小份）",
+              "id": 34
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "野有饭野菜炒饭",
+          "id": 2,
+          "items": [
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "卷心菜小鲜肉炒饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭+红烧肉",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "卜豆角小鲜肉炒饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "鲜笋小鲜肉炒饭",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "时令小蔬",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "野藜蒿小鲜肉炒饭",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "腊八豆鸡蛋炒饭+凉拌香菜耳尖",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "八戒吹泡泡",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "八戒耳尖",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "滋水土豆牛腩",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "脆萝卜炒腊肉",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "红烧肉+时蔬+例汤+白米饭套餐",
+              "id": 13
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "70后饭吧",
+          "id": 3,
+          "items": [
+            {
+              "type": "food",
+              "name": "酸辣剁椒土豆丝",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "妈妈蛋蒸肉",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "70椒麻鸡",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "千叶豆腐煲",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "一品金汤肥牛（小份）",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干煸四季豆（小份）",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "油渣青菜",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "清炒广东菜心",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "单人精品啤酒鸭套餐",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "米粉蒸肉（小份）",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "啤酒鸭（小份）",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "美味丁丁（小份）",
+              "id": 12
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "乐凯撒比萨",
+          "id": 4,
+          "items": [
+            {
+              "type": "food",
+              "name": "金枕榴梿拼风情夏威夷比萨12英寸",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "爆果肉榴梿比萨9英寸",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "6寸金枕榴梿比萨升级套餐",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "乐多多小吃拼盘",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "乐混混小吃拼盘",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "超有料比萨（辣）9英寸",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "风情夏威夷比萨9英寸",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "经典肉酱意面",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 5,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 6,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 7,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 8,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 9,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 10,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 11,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 12,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 13,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 14,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "week",
+      "name": "星期二",
+      "id": 2,
+      "items": [
+        {
+          "type": "store",
+          "name": "达美乐比萨",
+          "id": 1,
+          "items": [
+            {
+              "type": "food",
+              "name": "美国风情土豆培根比萨",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "美乐嫩汁鸡块",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "葱香烤薯饼",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "夏威夷风情比萨",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "意大利风情肉酱面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "单份烤翅-奥尔良风味",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "奶油蘑菇汤",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烤翅拼盘",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "热狗面包卷",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "卷心菜小鲜肉炒饭",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭+红烧肉",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "卜豆角小鲜肉炒饭",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "鲜笋小鲜肉炒饭",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "时令小蔬",
+              "id": 15
+            },
+            {
+              "type": "food",
+              "name": "野藜蒿小鲜肉炒饭",
+              "id": 16
+            },
+            {
+              "type": "food",
+              "name": "腊八豆鸡蛋炒饭+凉拌香菜耳尖",
+              "id": 17
+            },
+            {
+              "type": "food",
+              "name": "八戒吹泡泡",
+              "id": 18
+            },
+            {
+              "type": "food",
+              "name": "八戒耳尖",
+              "id": 19
+            },
+            {
+              "type": "food",
+              "name": "滋水土豆牛腩",
+              "id":20
+            },
+            {
+              "type": "food",
+              "name": "脆萝卜炒腊肉",
+              "id":21
+            },
+            {
+              "type": "food",
+              "name": "红烧肉+时蔬+例汤+白米饭套餐",
+              "id":22
+            },
+            {
+              "type": "food",
+              "name": "酸辣剁椒土豆丝",
+              "id": 23
+            },
+            {
+              "type": "food",
+              "name": "妈妈蛋蒸肉",
+              "id": 24
+            },
+            {
+              "type": "food",
+              "name": "70椒麻鸡",
+              "id": 25
+            },
+            {
+              "type": "food",
+              "name": "千叶豆腐煲",
+              "id": 26
+            },
+            {
+              "type": "food",
+              "name": "一品金汤肥牛（小份）",
+              "id": 27
+            },
+            {
+              "type": "food",
+              "name": "干煸四季豆（小份）",
+              "id": 28
+            },
+            {
+              "type": "food",
+              "name": "油渣青菜",
+              "id": 29
+            },
+            {
+              "type": "food",
+              "name": "清炒广东菜心",
+              "id":30
+            },
+            {
+              "type": "food",
+              "name": "单人精品啤酒鸭套餐",
+              "id":31
+            },
+            {
+              "type": "food",
+              "name": "米粉蒸肉（小份）",
+              "id":32
+            },
+            {
+              "type": "food",
+              "name": "啤酒鸭（小份）",
+              "id":33
+            },
+            {
+              "type": "food",
+              "name": "美味丁丁（小份）",
+              "id":34
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "野有饭野菜炒饭",
+          "id": 2,
+          "items": [
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "卷心菜小鲜肉炒饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭+红烧肉",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "卜豆角小鲜肉炒饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "鲜笋小鲜肉炒饭",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "时令小蔬",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "野藜蒿小鲜肉炒饭",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "腊八豆鸡蛋炒饭+凉拌香菜耳尖",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "八戒吹泡泡",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "八戒耳尖",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "滋水土豆牛腩",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "脆萝卜炒腊肉",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "红烧肉+时蔬+例汤+白米饭套餐",
+              "id": 13
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "70后饭吧",
+          "id": 3,
+          "items": [
+            {
+              "type": "food",
+              "name": "酸辣剁椒土豆丝",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "妈妈蛋蒸肉",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "70椒麻鸡",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "千叶豆腐煲",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "一品金汤肥牛（小份）",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干煸四季豆（小份）",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "油渣青菜",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "清炒广东菜心",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "单人精品啤酒鸭套餐",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "米粉蒸肉（小份）",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "啤酒鸭（小份）",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "美味丁丁（小份）",
+              "id": 12
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "乐凯撒比萨",
+          "id": 4,
+          "items": [
+            {
+              "type": "food",
+              "name": "金枕榴梿拼风情夏威夷比萨12英寸",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "爆果肉榴梿比萨9英寸",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "6寸金枕榴梿比萨升级套餐",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "乐多多小吃拼盘",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "乐混混小吃拼盘",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "超有料比萨（辣）9英寸",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "风情夏威夷比萨9英寸",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "经典肉酱意面",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 5,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 6,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 7,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 8,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 9,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 10,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 11,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 12,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 13,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 14,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "week",
+      "name": "星期三",
+      "id": 3,
+      "items": [
+        {
+          "type": "store",
+          "name": "达美乐比萨",
+          "id": 1,
+          "items": [
+            {
+              "type": "food",
+              "name": "美国风情土豆培根比萨",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "美乐嫩汁鸡块",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "葱香烤薯饼",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "夏威夷风情比萨",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "意大利风情肉酱面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "单份烤翅-奥尔良风味",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "奶油蘑菇汤",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烤翅拼盘",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "热狗面包卷",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "卷心菜小鲜肉炒饭",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭+红烧肉",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "卜豆角小鲜肉炒饭",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "鲜笋小鲜肉炒饭",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "时令小蔬",
+              "id": 15
+            },
+            {
+              "type": "food",
+              "name": "野藜蒿小鲜肉炒饭",
+              "id": 16
+            },
+            {
+              "type": "food",
+              "name": "腊八豆鸡蛋炒饭+凉拌香菜耳尖",
+              "id": 17
+            },
+            {
+              "type": "food",
+              "name": "八戒吹泡泡",
+              "id": 18
+            },
+            {
+              "type": "food",
+              "name": "八戒耳尖",
+              "id": 19
+            },
+            {
+              "type": "food",
+              "name": "滋水土豆牛腩",
+              "id":20
+            },
+            {
+              "type": "food",
+              "name": "脆萝卜炒腊肉",
+              "id":21
+            },
+            {
+              "type": "food",
+              "name": "红烧肉+时蔬+例汤+白米饭套餐",
+              "id":22
+            },
+            {
+              "type": "food",
+              "name": "酸辣剁椒土豆丝",
+              "id": 23
+            },
+            {
+              "type": "food",
+              "name": "妈妈蛋蒸肉",
+              "id": 24
+            },
+            {
+              "type": "food",
+              "name": "70椒麻鸡",
+              "id": 25
+            },
+            {
+              "type": "food",
+              "name": "千叶豆腐煲",
+              "id": 26
+            },
+            {
+              "type": "food",
+              "name": "一品金汤肥牛（小份）",
+              "id": 27
+            },
+            {
+              "type": "food",
+              "name": "干煸四季豆（小份）",
+              "id": 28
+            },
+            {
+              "type": "food",
+              "name": "油渣青菜",
+              "id": 29
+            },
+            {
+              "type": "food",
+              "name": "清炒广东菜心",
+              "id":30
+            },
+            {
+              "type": "food",
+              "name": "单人精品啤酒鸭套餐",
+              "id":31
+            },
+            {
+              "type": "food",
+              "name": "米粉蒸肉（小份）",
+              "id":32
+            },
+            {
+              "type": "food",
+              "name": "啤酒鸭（小份）",
+              "id":33
+            },
+            {
+              "type": "food",
+              "name": "美味丁丁（小份）",
+              "id":34
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "野有饭野菜炒饭",
+          "id": 2,
+          "items": [
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "卷心菜小鲜肉炒饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭+红烧肉",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "卜豆角小鲜肉炒饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "鲜笋小鲜肉炒饭",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "时令小蔬",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "野藜蒿小鲜肉炒饭",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "腊八豆鸡蛋炒饭+凉拌香菜耳尖",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "八戒吹泡泡",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "八戒耳尖",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "滋水土豆牛腩",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "脆萝卜炒腊肉",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "红烧肉+时蔬+例汤+白米饭套餐",
+              "id": 13
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "70后饭吧",
+          "id": 3,
+          "items": [
+            {
+              "type": "food",
+              "name": "酸辣剁椒土豆丝",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "妈妈蛋蒸肉",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "70椒麻鸡",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "千叶豆腐煲",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "一品金汤肥牛（小份）",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干煸四季豆（小份）",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "油渣青菜",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "清炒广东菜心",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "单人精品啤酒鸭套餐",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "米粉蒸肉（小份）",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "啤酒鸭（小份）",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "美味丁丁（小份）",
+              "id": 12
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "乐凯撒比萨",
+          "id": 4,
+          "items": [
+            {
+              "type": "food",
+              "name": "金枕榴梿拼风情夏威夷比萨12英寸",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "爆果肉榴梿比萨9英寸",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "6寸金枕榴梿比萨升级套餐",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "乐多多小吃拼盘",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "乐混混小吃拼盘",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "超有料比萨（辣）9英寸",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "风情夏威夷比萨9英寸",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "经典肉酱意面",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 5,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 6,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 7,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 8,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 9,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 10,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 11,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 12,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 13,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 14,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "week",
+      "name": "星期四",
+      "id": 4,
+      "items": [
+        {
+          "type": "store",
+          "name": "达美乐比萨",
+          "id": 1,
+          "items": [
+            {
+              "type": "food",
+              "name": "美国风情土豆培根比萨",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "美乐嫩汁鸡块",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "葱香烤薯饼",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "夏威夷风情比萨",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "意大利风情肉酱面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "单份烤翅-奥尔良风味",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "奶油蘑菇汤",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烤翅拼盘",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "热狗面包卷",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "卷心菜小鲜肉炒饭",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭+红烧肉",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "卜豆角小鲜肉炒饭",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "鲜笋小鲜肉炒饭",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "时令小蔬",
+              "id": 15
+            },
+            {
+              "type": "food",
+              "name": "野藜蒿小鲜肉炒饭",
+              "id": 16
+            },
+            {
+              "type": "food",
+              "name": "腊八豆鸡蛋炒饭+凉拌香菜耳尖",
+              "id": 17
+            },
+            {
+              "type": "food",
+              "name": "八戒吹泡泡",
+              "id": 18
+            },
+            {
+              "type": "food",
+              "name": "八戒耳尖",
+              "id": 19
+            },
+            {
+              "type": "food",
+              "name": "滋水土豆牛腩",
+              "id":20
+            },
+            {
+              "type": "food",
+              "name": "脆萝卜炒腊肉",
+              "id":21
+            },
+            {
+              "type": "food",
+              "name": "红烧肉+时蔬+例汤+白米饭套餐",
+              "id":22
+            },
+            {
+              "type": "food",
+              "name": "酸辣剁椒土豆丝",
+              "id": 23
+            },
+            {
+              "type": "food",
+              "name": "妈妈蛋蒸肉",
+              "id": 24
+            },
+            {
+              "type": "food",
+              "name": "70椒麻鸡",
+              "id": 25
+            },
+            {
+              "type": "food",
+              "name": "千叶豆腐煲",
+              "id": 26
+            },
+            {
+              "type": "food",
+              "name": "一品金汤肥牛（小份）",
+              "id": 27
+            },
+            {
+              "type": "food",
+              "name": "干煸四季豆（小份）",
+              "id": 28
+            },
+            {
+              "type": "food",
+              "name": "油渣青菜",
+              "id": 29
+            },
+            {
+              "type": "food",
+              "name": "清炒广东菜心",
+              "id":30
+            },
+            {
+              "type": "food",
+              "name": "单人精品啤酒鸭套餐",
+              "id":31
+            },
+            {
+              "type": "food",
+              "name": "米粉蒸肉（小份）",
+              "id":32
+            },
+            {
+              "type": "food",
+              "name": "啤酒鸭（小份）",
+              "id":33
+            },
+            {
+              "type": "food",
+              "name": "美味丁丁（小份）",
+              "id":34
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "野有饭野菜炒饭",
+          "id": 2,
+          "items": [
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "卷心菜小鲜肉炒饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭+红烧肉",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "卜豆角小鲜肉炒饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "鲜笋小鲜肉炒饭",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "时令小蔬",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "野藜蒿小鲜肉炒饭",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "腊八豆鸡蛋炒饭+凉拌香菜耳尖",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "八戒吹泡泡",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "八戒耳尖",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "滋水土豆牛腩",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "脆萝卜炒腊肉",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "红烧肉+时蔬+例汤+白米饭套餐",
+              "id": 13
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "70后饭吧",
+          "id": 3,
+          "items": [
+            {
+              "type": "food",
+              "name": "酸辣剁椒土豆丝",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "妈妈蛋蒸肉",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "70椒麻鸡",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "千叶豆腐煲",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "一品金汤肥牛（小份）",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干煸四季豆（小份）",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "油渣青菜",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "清炒广东菜心",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "单人精品啤酒鸭套餐",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "米粉蒸肉（小份）",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "啤酒鸭（小份）",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "美味丁丁（小份）",
+              "id": 12
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "乐凯撒比萨",
+          "id": 4,
+          "items": [
+            {
+              "type": "food",
+              "name": "金枕榴梿拼风情夏威夷比萨12英寸",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "爆果肉榴梿比萨9英寸",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "6寸金枕榴梿比萨升级套餐",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "乐多多小吃拼盘",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "乐混混小吃拼盘",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "超有料比萨（辣）9英寸",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "风情夏威夷比萨9英寸",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "经典肉酱意面",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 5,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 6,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 7,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 8,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 9,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 10,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 11,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 12,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 13,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 14,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "week",
+      "name": "星期五",
+      "id": 5,
+      "items": [
+        {
+          "type": "store",
+          "name": "达美乐比萨",
+          "id": 1,
+          "items": [
+            {
+              "type": "food",
+              "name": "美国风情土豆培根比萨",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "美乐嫩汁鸡块",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "葱香烤薯饼",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "夏威夷风情比萨",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "意大利风情肉酱面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "单份烤翅-奥尔良风味",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "奶油蘑菇汤",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烤翅拼盘",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "热狗面包卷",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "卷心菜小鲜肉炒饭",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭+红烧肉",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "卜豆角小鲜肉炒饭",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "鲜笋小鲜肉炒饭",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "时令小蔬",
+              "id": 15
+            },
+            {
+              "type": "food",
+              "name": "野藜蒿小鲜肉炒饭",
+              "id": 16
+            },
+            {
+              "type": "food",
+              "name": "腊八豆鸡蛋炒饭+凉拌香菜耳尖",
+              "id": 17
+            },
+            {
+              "type": "food",
+              "name": "八戒吹泡泡",
+              "id": 18
+            },
+            {
+              "type": "food",
+              "name": "八戒耳尖",
+              "id": 19
+            },
+            {
+              "type": "food",
+              "name": "滋水土豆牛腩",
+              "id":20
+            },
+            {
+              "type": "food",
+              "name": "脆萝卜炒腊肉",
+              "id":21
+            },
+            {
+              "type": "food",
+              "name": "红烧肉+时蔬+例汤+白米饭套餐",
+              "id":22
+            },
+            {
+              "type": "food",
+              "name": "酸辣剁椒土豆丝",
+              "id": 23
+            },
+            {
+              "type": "food",
+              "name": "妈妈蛋蒸肉",
+              "id": 24
+            },
+            {
+              "type": "food",
+              "name": "70椒麻鸡",
+              "id": 25
+            },
+            {
+              "type": "food",
+              "name": "千叶豆腐煲",
+              "id": 26
+            },
+            {
+              "type": "food",
+              "name": "一品金汤肥牛（小份）",
+              "id": 27
+            },
+            {
+              "type": "food",
+              "name": "干煸四季豆（小份）",
+              "id": 28
+            },
+            {
+              "type": "food",
+              "name": "油渣青菜",
+              "id": 29
+            },
+            {
+              "type": "food",
+              "name": "清炒广东菜心",
+              "id":30
+            },
+            {
+              "type": "food",
+              "name": "单人精品啤酒鸭套餐",
+              "id":31
+            },
+            {
+              "type": "food",
+              "name": "米粉蒸肉（小份）",
+              "id":32
+            },
+            {
+              "type": "food",
+              "name": "啤酒鸭（小份）",
+              "id":33
+            },
+            {
+              "type": "food",
+              "name": "美味丁丁（小份）",
+              "id":34
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "野有饭野菜炒饭",
+          "id": 2,
+          "items": [
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "卷心菜小鲜肉炒饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "野芥菜小鲜肉炒饭+红烧肉",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "卜豆角小鲜肉炒饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "鲜笋小鲜肉炒饭",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "时令小蔬",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "野藜蒿小鲜肉炒饭",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "腊八豆鸡蛋炒饭+凉拌香菜耳尖",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "八戒吹泡泡",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "八戒耳尖",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "滋水土豆牛腩",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "脆萝卜炒腊肉",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "红烧肉+时蔬+例汤+白米饭套餐",
+              "id": 13
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "70后饭吧",
+          "id": 3,
+          "items": [
+            {
+              "type": "food",
+              "name": "酸辣剁椒土豆丝",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "妈妈蛋蒸肉",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "70椒麻鸡",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "千叶豆腐煲",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "一品金汤肥牛（小份）",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干煸四季豆（小份）",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "油渣青菜",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "清炒广东菜心",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "单人精品啤酒鸭套餐",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "米粉蒸肉（小份）",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "啤酒鸭（小份）",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "美味丁丁（小份）",
+              "id": 12
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "乐凯撒比萨",
+          "id": 4,
+          "items": [
+            {
+              "type": "food",
+              "name": "金枕榴梿拼风情夏威夷比萨12英寸",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "爆果肉榴梿比萨9英寸",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "6寸金枕榴梿比萨升级套餐",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "乐多多小吃拼盘",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "乐混混小吃拼盘",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "超有料比萨（辣）9英寸",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "风情夏威夷比萨9英寸",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "经典肉酱意面",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 5,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 6,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 7,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 8,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 9,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 10,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 11,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 12,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "新旺茶餐厅",
+          "id": 13,
+          "items": [
+            {
+              "type": "food",
+              "name": "冰火菠萝油",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "稻花香米饭",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "港式腊味炒饭",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "鲜茄鸡蛋牛肉饭",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "精选午餐肉煎蛋公仔面",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "干炒牛河",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "招牌鸳鸯",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "烧味双拼饭（叉烧拼油鸡）",
+              "id": 8
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 9
+            },
+            {
+              "type": "food",
+              "name": "原味皮蛋瘦肉粥",
+              "id": 10
+            },
+            {
+              "type": "food",
+              "name": "酱烧茄瓜",
+              "id": 11
+            },
+            {
+              "type": "food",
+              "name": "招牌明炉烧鹅",
+              "id": 12
+            },
+            {
+              "type": "food",
+              "name": "鲜虾云吞面",
+              "id": 13
+            },
+            {
+              "type": "food",
+              "name": "美极鸭下巴【2只】",
+              "id": 14
+            },
+            {
+              "type": "food",
+              "name": "椒盐鸭下巴【2只】",
+              "id": 15
+            }
+          ]
+        },
+        {
+          "type": "store",
+          "name": "爱夏及虾小龙虾",
+          "id": 14,
+          "items": [
+            {
+              "type": "food",
+              "name": "招牌十三香大虾48元/斤",
+              "id": 1
+            },
+            {
+              "type": "food",
+              "name": "招牌蒜香大虾48元/斤",
+              "id": 2
+            },
+            {
+              "type": "food",
+              "name": "招牌椒盐大虾48元/斤",
+              "id": 3
+            },
+            {
+              "type": "food",
+              "name": "白灼大虾48元/斤",
+              "id": 4
+            },
+            {
+              "type": "food",
+              "name": "招牌十三香特大虾68元/斤",
+              "id": 5
+            },
+            {
+              "type": "food",
+              "name": "加菜年糕",
+              "id": 6
+            },
+            {
+              "type": "food",
+              "name": "加菜莴笋",
+              "id": 7
+            },
+            {
+              "type": "food",
+              "name": "加菜藕片",
+              "id": 8
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "message": null
+}

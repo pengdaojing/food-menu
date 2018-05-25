@@ -1,0 +1,119 @@
+.content{
+  .container{
+    width: 760px;
+    background-color: #fff;
+    box-shadow: 0 0 10px #d7d7d7;
+    overflow: hidden;
+    padding: 0;
+    &>.title{
+      font-size: 14px;
+      font-weight: normal;
+      line-height: 1em;
+      padding: 30px 40px 20px 30px;
+      border-bottom: 1px solid #ddd;
+    }
+  }
+}
+.food-area{
+  display: flex;
+  border-image: linear-gradient(#ee87a2, #9f99be, #7ba6c6, #71cd84) 30 30;
+  border-width: 3px;
+  border-style: solid;
+  margin: 20px 40px;
+}
+.weeks{
+  display: flex;
+  justify-content: space-between;
+  padding: 0 40px;
+  li{
+    height: 80px;
+    line-height: 80px;
+    padding: 0 20px;
+    text-align: center;
+    border-right: 1px solid #fff;
+    cursor: pointer;
+    &:hover{
+      color: #fc431e;
+      border-bottom: 2px solid #fc431e;
+    }
+  }
+  .active{
+    color: #fc431e;
+    border-bottom: 2px solid #fc431e;
+  }
+}
+.stores{
+  width: 150px;
+  background-color: #f5f5f5;
+  border-right: 1px dashed #bfbfbf;
+  height: 415px;
+  overflow-y: scroll;
+  li{
+    height: 52px;
+    line-height: 52px;
+    padding: 0 16px;
+    border-bottom: 1px solid #fff;
+    cursor: pointer;
+    &:last-of-type{
+      border-bottom: none;
+    }
+    &:hover{
+      background-color: #fff;
+      color: #fc431e;
+    }
+  }
+  .active{
+    background-color: #fff;
+    color: #fc431e;
+  }
+}
+.foods{
+  display: flex;
+  flex: 1;
+  padding: 16px 16px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-content: flex-start;
+  height: 415px;
+  overflow-y: scroll;
+  li{
+    width: 30%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px solid #fff;
+    margin-right: 1.5%;
+    &:nth-of-type(3n){
+      margin-right: 0;
+    }
+  }
+  .icon-checkbox{
+    color: #169bd5;
+  }
+}
+.food-checkbox{
+  cursor: pointer;
+  input[type=checkbox]{
+    display: none;
+  }
+}
+.btn-group{
+  justify-content: center;
+  padding-top: 30px;
+  margin: 30px 0 50px;
+  border-top: 1px solid #ddd;
+}
+.btn{
+  width: 88px;
+  text-align: center;
+  color: #fc431e;
+  background-color: #fff;
+  padding: 3px 6px;
+  border-radius: 4px;
+  box-shadow: 0 0 6px #b5b5b5;
+}
+.cancel{
+  margin-left: 30px;
+}

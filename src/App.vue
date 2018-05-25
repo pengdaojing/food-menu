@@ -32,6 +32,18 @@ export default {
   button:focus{
     outline: none;
   }
+  ::-webkit-scrollbar{
+    width: 5px;
+    height: 5px;
+    background: #f7f7f7;
+  }
+  ::-webkit-scrollbar-thumb{
+    height: 10px;
+    background: #e4e4e4;
+  }
+  ::-webkit-scrollbar-track {
+    background: #f7f7f7;
+  }
   .btn{
     display: inline-block;
     height: 30px;
@@ -41,7 +53,7 @@ export default {
     border-radius: 4px;
   }
   .btn:active{
-    box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125) !important;
   }
   .container{
     width: 1000px;

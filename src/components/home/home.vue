@@ -1,19 +1,6 @@
 <template>
   <div class="home">
-    <header class="header">
-      <div>
-        <div class="container">
-          <p class="title">欣和点餐系统</p>
-          <div class="btn-group">
-            <button class="upload-btn">上传菜品</button>
-            <div class="user-btn">
-              <span class="before-login btn">登录</span>
-              <div class="after-login" style="display: none;"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </header>
+    <food-header></food-header>
     <div class="content">
       <div class="container">
         <div class="left-content">
@@ -102,4 +89,4 @@
 </template>
 
 <script src="./home.js"></script>
-<style src="./home.less"></style>
+<style src="./home.less" lang="less" scoped></style>

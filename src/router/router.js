@@ -1,6 +1,6 @@
 import App from '../App'
 const home = r => require.ensure([], () => r(require('../components/home/home.vue')), 'home')
-const breakfast = r => require.ensure([], () => r(require('../components/BreakFast')), 'breakfast')
+const uploadMenu = r => require.ensure([], () => r(require('../components/upload-menu/upload-menu.vue')), 'uploadMenu')
 export default [{
   path: '/',
   component: App,
@@ -14,8 +14,8 @@ export default [{
       component: home
     },
     {
-      path: 'breakfast',
-      component: breakfast
+      path: 'upload-menu',
+      component: uploadMenu
     }
   ]
 }]

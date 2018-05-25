@@ -1,24 +1,29 @@
 import sideRight from '../side-right/side-right.vue'
+import ApiService from '../../service/api-service'
+import foodHeader from '../food-header/food-header.vue'
 export default {
   name: 'home',
-  data: function () {
-    const obj = {
+  data () {
+    return {
       todayMenu: {
         breakfast: '小葱拌豆腐',
         lunch: '红烧肉、狮子头'
       }
     }
-    return obj
+  },
+  created () {
+    this.getTodayMenu()
   },
   components: {
-    sideRight
+    sideRight,
+    foodHeader
   },
   methods: {
-    toBreakfast: function () {
-      this.$router.push({path: '/breakfast'})
-    },
-    toCeshi: function () {
-      this.$router.push({path: '/ceshi'})
+    getTodayMenu () {
+      ApiService.todayMenu()
+        .then(res => {
+          console.log('res', res)
+        })
     }
   }
 }
