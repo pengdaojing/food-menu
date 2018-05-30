@@ -2,7 +2,8 @@ export default {
   name: 'food-header',
   data () {
     return {
-      isHome: true
+      isUpload: true,
+      isRecommend: true
     }
   },
   created () {
@@ -20,7 +21,11 @@ export default {
     // 隐藏上传按钮
     hideUploadBtn () {
       const path = this.$route.path
-      this.isHome = path.indexOf('home') !== -1
+      this.isUpload = path.indexOf('upload-menu') !== -1
+      this.isRecommend = path.indexOf('recommend') !== -1
+    },
+    toRecommend () {
+      this.$router.push({path: '/recommend'})
     }
   }
 }

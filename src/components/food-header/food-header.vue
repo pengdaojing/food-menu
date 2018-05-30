@@ -4,7 +4,7 @@
       <div class="container">
         <a class="title" @click="toHome">欣和点餐系统</a>
         <div class="btn-group">
-          <div class="upload-area" v-show="isHome">
+          <div class="upload-area" v-show="!isUpload">
             <button class="upload-btn btn" @click="uploadMenu">上传菜品</button>
             <!--<div class="card-wrapper-top">-->
             <!--<div class="card-cont">-->
@@ -16,8 +16,8 @@
             <!--</div>-->
             <!--</div>-->
           </div>
-          <div class="user-btn">
-            <span class="before-login btn">推荐菜品</span>
+          <div class="user-btn" v-show="!isRecommend">
+            <span class="before-login btn" @click="toRecommend">推荐菜品</span>
           </div>
         </div>
       </div>

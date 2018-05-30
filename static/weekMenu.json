@@ -1,0 +1,202 @@
+{
+  "code": 0,
+  "msg": "string",
+  "result": {
+    "weekBreakfasts": [
+      {
+        "dishId": 0,
+        "dishName": "豆浆、油条",
+        "restaurantId": 0,
+        "restaurantName": "string",
+        "weekDate": "string"
+      },{
+        "dishId": 1,
+        "dishName": "豆浆、油条",
+        "restaurantId": 0,
+        "restaurantName": "string",
+        "weekDate": "string"
+      },{
+        "dishId": 2,
+        "dishName": "豆浆、油条",
+        "restaurantId": 0,
+        "restaurantName": "string",
+        "weekDate": "string"
+      },{
+        "dishId": 3,
+        "dishName": "豆浆、油条",
+        "restaurantId": 0,
+        "restaurantName": "string",
+        "weekDate": "string"
+      },{
+        "dishId": 4,
+        "dishName": "豆浆、油条",
+        "restaurantId": 0,
+        "restaurantName": "string",
+        "weekDate": "string"
+      }
+    ],
+    "weekLunchs": [
+      {
+        "dishLists": [
+          {
+            "dishId": 0,
+            "dishName": "美国风情土豆培根比萨",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 1,
+            "dishName": "意大利风情肉酱面",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 2,
+            "dishName": "美乐嫩汁鸡块",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 3,
+            "dishName": "葱香烤薯饼",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 4,
+            "dishName": "夏威夷风情比萨",
+            "price": "string",
+            "taste": "string"
+          }
+        ],
+        "restaurantId": 0,
+        "restaurantName": "达美乐比萨",
+        "weekDate": "string"
+      },{
+        "dishLists": [
+          {
+            "dishId": 0,
+            "dishName": "美国风情土豆培根比萨",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 1,
+            "dishName": "意大利风情肉酱面",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 2,
+            "dishName": "美乐嫩汁鸡块",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 3,
+            "dishName": "葱香烤薯饼",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 4,
+            "dishName": "夏威夷风情比萨",
+            "price": "string",
+            "taste": "string"
+          }
+        ],
+        "restaurantId": 1,
+        "restaurantName": "达美乐比萨",
+        "weekDate": "string"
+      },{
+        "dishLists": [
+          {
+            "dishId": 0,
+            "dishName": "美国风情土豆培根比萨",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 1,
+            "dishName": "意大利风情肉酱面",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 2,
+            "dishName": "美乐嫩汁鸡块",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 3,
+            "dishName": "葱香烤薯饼",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 4,
+            "dishName": "夏威夷风情比萨",
+            "price": "string",
+            "taste": "string"
+          }
+        ],
+        "restaurantId": 2,
+        "restaurantName": "达美乐比萨",
+        "weekDate": "string"
+      },{
+        "dishLists": [
+          {
+            "dishId": 0,
+            "dishName": "美国风情土豆培根比萨",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 1,
+            "dishName": "意大利风情肉酱面",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 2,
+            "dishName": "美乐嫩汁鸡块",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 3,
+            "dishName": "葱香烤薯饼",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 4,
+            "dishName": "夏威夷风情比萨",
+            "price": "string",
+            "taste": "string"
+          }
+        ],
+        "restaurantId": 3,
+        "restaurantName": "达美乐比萨",
+        "weekDate": "string"
+      },{
+        "dishLists": [
+          {
+            "dishId": 0,
+            "dishName": "美国风情土豆培根比萨",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 1,
+            "dishName": "意大利风情肉酱面",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 2,
+            "dishName": "美乐嫩汁鸡块",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 3,
+            "dishName": "葱香烤薯饼",
+            "price": "string",
+            "taste": "string"
+          },{
+            "dishId": 4,
+            "dishName": "夏威夷风情比萨",
+            "price": "string",
+            "taste": "string"
+          }
+        ],
+        "restaurantId": 4,
+        "restaurantName": "达美乐比萨",
+        "weekDate": "string"
+      }
+    ]
+  }
+}
