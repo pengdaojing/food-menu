@@ -17,7 +17,8 @@ Vue.component(Dialog.name, Dialog)
 Vue.prototype.$message = Message
 // Vue.prototype.$msgbox = MessageBox
 const router = new VueRouter({
-  routes
+  routes,
+  mode: 'hash'
 })
 new Vue({
   router
